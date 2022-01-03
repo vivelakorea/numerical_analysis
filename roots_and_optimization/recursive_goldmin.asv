@@ -1,5 +1,0 @@
-function [x, fx, ea, iter] = goldmin(f, xl, xu, es, maxit, vargin)
-
-if nargin < 3, error('at least 3 argumetns
-
-end
